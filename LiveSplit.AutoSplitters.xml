@@ -2,15 +2,14 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
-            <Game>Sanguine Soul</Game>
+            <Game>Pogo3D</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Sanguine%20Soul/sanguinesoul.asl</URL>
-            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Sanguine%20Soul/SanguineSoul.Settings.xml</URL>
+            <URL>https://raw.githubusercontent.com/mitchell-merry/autosplitters/main/Pogo3D/pogo3d.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autosplitting and load removal is available. (By diggity)</Description>
+        <Description>Auto start/split is available. (By diggity)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
